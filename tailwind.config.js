@@ -13,7 +13,7 @@ module.exports = {
         '104': '28rem',
         '118': '30rem',
         '128': '32rem',
-        'container': '65rem' 
+        'container': '1024px' 
       },
       animation: {
         'spin-slow': 'spin 20s linear infinite',
