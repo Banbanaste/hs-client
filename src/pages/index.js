@@ -16,7 +16,7 @@ const IndexPage = () => {
           <p>There’s no specific topic except you can’t hack on “work” projects. Hacker Sunday is a place where you can explore freely with the support of your peers. We want to set aside Sundays for you to try things out and genuinely do cool shit. Not do more work for your corporate overlords. </p>
         </div>
 
-        <p className='m-0 capitalize text-blue-700'><Link to="">Become a Hacker and Join Us</Link></p>
+        <p className='m-0 capitalize text-blue-700'><a href="https://discord.gg/unVsqp6WtW" target="_blank">Become a Hacker and Join Us</a></p>
         <p className="text-slate-400 text-xs">Join our Discord Server and add the Hacker Sunday Role</p>
 
       </div>
